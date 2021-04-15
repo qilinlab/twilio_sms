@@ -27,5 +27,7 @@
     'external_dependencies': {"python": ['twilio']},
     "application": False,
     "installable": True,
+    'price': 9.00,
+    'currency': 'EUR',
     "active": True,
 }
